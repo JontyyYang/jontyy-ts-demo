@@ -1,9 +1,9 @@
 {
-  "name": "jontyy-ts-demo",
+  "name": "",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/JontyyYang/basic.git",
-  "author": "yangjinda",
+  "repository": "",
+  "author": "jontyy",
   "license": "MIT",
   "scripts": {
     "lint": "eslint '**/*.{js,ts,tsx}'",
